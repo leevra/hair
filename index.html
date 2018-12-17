@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+
+
+<div class="home">
+
+<br>
+
+<span style="color: rgb(15, 49, 233);"><strong><h2><a class="post-link" href="https://공동구매연구소.leevra.com/categories">▷진행중인 공동구매 전체보기</a></h2></strong></span>
+<hr />
+<br>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:7 %}
+      <li>
+
+
+        <h1>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h1>
+		
+		<br>
+		
+      </li>
+    {% endfor %}
+	
+  </ul>
+
+
+</div>
