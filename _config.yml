@@ -14,7 +14,7 @@ permalink: /:title
 github_username:  leevra
 facebook_app_id: 
 favicon:     "/images/recycle.png"
-aboutme: 농약, 가축분뇨와 <br>비교할 수 없는 <br>커피비료의 효능 # these are shown on aboutme-sidebar.
+aboutme: 단 한 번의 실패도 없이 농사 지을 수 있다. # these are shown on aboutme-sidebar.
 aboutme_photo: /images/20181218_044007.jpg # your photo.
 google_analytics_key:   # put YOUR key here to enable tracking! (blank to disable)
 
