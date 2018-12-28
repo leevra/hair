@@ -14,7 +14,7 @@ permalink: /:title
 github_username:  leevra
 facebook_app_id: 
 favicon:     "/images/recycle.png"
-aboutme: 단 한 번의 실패도 없이 농사 지을 수 있다. # these are shown on aboutme-sidebar.
+aboutme: 단 한 번의 실패도 없이 <br>농사 지을 수 있다. # these are shown on aboutme-sidebar.
 aboutme_photo: /images/20181218_044007.jpg # your photo.
 google_analytics_key:   # put YOUR key here to enable tracking! (blank to disable)
 
