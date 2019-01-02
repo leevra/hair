@@ -13,9 +13,9 @@ permalink: /:title
 ### Personal info and site tools info:
 github_username:  leevra
 facebook_app_id: 
-favicon:     "/images/recycle.png"
+favicon:     "/images/"
 aboutme: 매주화요일 2.4주 목요일휴무입니다. # these are shown on aboutme-sidebar.
-aboutme_photo: /images/20181218_044007.jpg # your photo.
+aboutme_photo: /images/20180205_013834.jpg # your photo.
 google_analytics_key:   # put YOUR key here to enable tracking! (blank to disable)
 
 

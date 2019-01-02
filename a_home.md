@@ -4,3 +4,18 @@ title: Home
 permalink: /
 ---
 
+
+<h2>Hair Designer 윤아</h2>
+<br>
+<center>
+<img class="alignnone size-full wp-image-67" src="/images/20180205_013834.jpg" alt="" width="380" height="550" />
+</center>
+
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-family: arial,helvetica,sans-serif;">프리미엄 리안헤어</span><br />
+<span style="font-family: arial,helvetica,sans-serif;"> 서울대입구역점</span><br />
+<span style="font-family: arial,helvetica,sans-serif;"> 실장 윤아입니다</span></p>
+<p style="text-align: center;"><span style="font-family: arial,helvetica,sans-serif;">매주화요일</span><br />
+<span style="font-family: arial,helvetica,sans-serif;"> 2.4주 목요일휴무입니다.</span></p>
+<p style="text-align: center;"><span style="font-family: arial,helvetica,sans-serif;"><strong>카톡 예약 : jya90210</strong></span></p>
+<p style="text-align: center;"><span style="color: #0000ff;"><a style="color: #0000ff;" href="sms:010-9483-0368"><strong><span style="font-family: arial,helvetica,sans-serif;">문자 예약하기[신청]</span></strong></a></span></p>
